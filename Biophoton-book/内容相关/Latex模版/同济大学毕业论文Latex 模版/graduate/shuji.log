@@ -1,0 +1,296 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.12.1)  1 DEC 2020 19:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/cx/Downloads/TONGJITHESIS-master/graduate/shuji
+(/Users/cx/Downloads/TONGJITHESIS-master/graduate/shuji.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box45
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKvert.sty
+Package: CJKvert 2015/04/18 4.8.4
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+LaTeX Info: Redefining \CJKsymbol on input line 105.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count171
+\Gm@cntv=\count172
+\c@Gm@tempcnt=\count173
+\Gm@bindingoffset=\dimen137
+\Gm@wd@mp=\dimen138
+\Gm@odd@mp=\dimen139
+\Gm@even@mp=\dimen140
+\Gm@layoutwidth=\dimen141
+\Gm@layoutheight=\dimen142
+\Gm@layouthoffset=\dimen143
+\Gm@layoutvoffset=\dimen144
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count174
+\l__pdf_internal_box=\box46
+\g__pdf_backend_object_int=\count175
+\g__pdf_backend_annotation_int=\count176
+)
+
+LaTeX Warning: Unused global option(s):
+    [14pt,a3paper].
+
+No file shuji.aux.
+\openout1 = `shuji.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+
+Package geometry Warning: The marginal notes overrun the paper.
+     Add 155.0pt and more to the right margin.
+
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a3paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(0.0pt, 1195.01575pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=1195.01575pt
+* \paperheight=845.04684pt
+* \textwidth=1195.01575pt
+* \textheight=845.04684pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-109.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+File: standard.bdg 2015/04/18 4.8.4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.enc
+File: extended.enc 2015/04/18 4.8.4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.chr
+File: extended.chr 2015/04/18 4.8.4
+)
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 12 replaced by U+FFFD.
+Missing character: There is no ͬ in font [lmroman10-regular]:mapping=tex-text;!
+LaTeX Font Info:    Trying to load font information for C19+fs on input line 15.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/zhmetrics/c19fs.fd
+File: c19fs.fd 2009/09/23 4.8.2
+)
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ѧ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ѧ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no λ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+
+
+/Users/cx/Downloads/TONGJITHESIS-master/graduate/shuji.tex:15: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...cauthor\hskip 0.3cm\university\hskip 2cm}}
+                                                  
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+Missing character: There is no ʹ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ʵ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ͬ in font [lmroman10-regular]:mapping=tex-text;!
+
+/Users/cx/Downloads/TONGJITHESIS-master/graduate/shuji.tex:15: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...cauthor\hskip 0.3cm\university\hskip 2cm}}
+                                                  
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ͬ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no � in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ѧ in font [lmroman10-regular]:mapping=tex-text;!
+[1
+
+] (./shuji.aux) ) 
+Here is how much of TeX's memory you used:
+ 2375 strings out of 479418
+ 31795 string characters out of 5884585
+ 280400 words of memory out of 5000000
+ 19913 multiletter control sequences out of 15000+600000
+ 532616 words of font info for 26 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 38i,4n,29p,249b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Error 256 (driver return code) generating output;
+file shuji.pdf may not be valid.
